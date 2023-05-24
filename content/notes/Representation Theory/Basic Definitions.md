@@ -5,7 +5,6 @@ time: "22:15"
 tags:
 - representation-theory
 ---
-$\R, \Z, \N, \Q, \Rn, \E, \C, \MaxSpec, \Gal$
 
 **Definition (Representation).** A *representation* of an associative algebra $A$ is a vector space $V$ equipped with a homomorphism $$
 \rho \colon V \to \text{End}(V).
