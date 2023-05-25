@@ -1,5 +1,5 @@
 ---
-title: "Hilbert's Nullstellensatz"
+title: "Hilbert Nullstellensatz"
 date: "2023-05-24"
 time: "16:29"
 tags:
