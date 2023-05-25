@@ -5,7 +5,7 @@ time: "17:23"
 tags:
 - galois-theory
 ---
-Gauss' lemma is super important and it will help us prove [[Eisenstein's criterion]]. We will make a quick definition and state a lemma, and then prove the two main propositions.
+Gauss' lemma is super important and it will help us prove [[notes/Galois Theory/Eisenstein Criterion]]. We will make a quick definition and state a lemma, and then prove the two main propositions.
 
 **Definition (Content, Primitive).** Let $R$ be a UFD, and let $f(x) \in R[x]$. The *content*, $c(f)$, of $f$ is the $\gcd$ of the coefficients of $f$. If the content of $f$ is 1, then $f$ is called *primitive.* 
 
