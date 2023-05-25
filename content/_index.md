@@ -11,4 +11,5 @@ Table of Contents:
 - [Representation Theory](notes/Representation%20Theory/Representation%20Theory.md)
 - [Algebraic Geometry](notes/Algebraic%20Geometry/Algebraic%20Geometry.md)
 - [Commutative Algebra](notes/Commutative%20Algebra/Commutative%20Algebra.md)
+- [Galois Theory](notes/Galois%20Theory/Galois%20Theory.md) 
 

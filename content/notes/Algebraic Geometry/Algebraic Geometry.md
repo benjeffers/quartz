@@ -8,4 +8,6 @@ tags:
 Table of Contents
 - [Algebraic Sets](notes/Algebraic%20Geometry/Algebraic%20Sets.md)
 - [The Zariski Topology](notes/Algebraic%20Geometry/The%20Zariski%20Topology.md)
+- [[notes/Algebraic Geometry/Vanishing Ideal]] 
 - [[notes/Algebraic Geometry/Weak Nullstellensatz|Weak Nullstellensatz]] 
+- [[notes/Algebraic Geometry/Hilbert's Nullstellensatz]] 

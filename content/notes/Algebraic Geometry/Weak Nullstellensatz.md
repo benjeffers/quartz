@@ -4,6 +4,7 @@ date: "2023-05-23"
 time: "22:26"
 tags:
 - algebraic-geometry
+- commutative-algebra
 ---
 We will state and prove three different, but equivalent, versions of the Weak Nullstellensatz, one of the most fundamental theorems in algebraic geometry. We will start with the most general version and then use that to prove two versions that give us more geometric information.
 
@@ -47,12 +48,12 @@ And we finally arrive at our third and final version of the nullstellensatz.
 
 **Third Weak Nullstellensatz.** Assume that $k$ is an algebraically closed field. For every proper ideal $\mathfrak a \subset k[x\_1, \ldots , x\_n]$, there is a point $x \in Z(\mathfrak a)$. 
 
-**Proof.** We will prove that the second and third versions of the Nullstellensatz are equivalent. Assume the second statement. Then, let $\mathfrak a$ be a proper ideal. Since $\mathfrak a$ is contained in some maximal ideal $\mathfrak m = (x\_1 - a\_1, \ldots , x\_n - a\_n)$ we must have that $Z(\mathfrak m) \subseteq Z(\mathfrak a)$ and $(a\_1, \ldots , a\_n) \in Z(\mathfrak m)$, and thus $Z(\mathfrak a) \neq \emptyset$. 
+*Proof.* We will prove that the second and third versions of the Nullstellensatz are equivalent. Assume the second statement. Then, let $\mathfrak a$ be a proper ideal. Since $\mathfrak a$ is contained in some maximal ideal $\mathfrak m = (x\_1 - a\_1, \ldots , x\_n - a\_n)$ we must have that $Z(\mathfrak m) \subseteq Z(\mathfrak a)$ and $(a\_1, \ldots , a\_n) \in Z(\mathfrak m)$, and thus $Z(\mathfrak a) \neq \emptyset$. 
 
 Now assume the third statement. Let $\mathfrak m$ be a maximal ideal. It is proper, so there is a point $(a\_1, \ldots , a\_n) \in Z(\mathfrak m)$. Consequently it holds that 
 $$
 (x\_1 - a\_1 , \ldots , x\_n - a\_n) \subseteq \mathfrak m.
 $$To see this, note that since $k[x\_1, \ldots , x\_n]/\mathfrak m \cong k$ (this can be seen using the evaluation map), each $x_i + \mathfrak m$ maps to some $a\_i \in k$ under this isomorphism. So each $x\_i - a\_i \in \mathfrak m$. But since $(x\_1 - a\_1, \ldots , x\_n - a\_n)$ is maximal, it must be equal to $\mathfrak m$. 
 
-
+*Alternate Proof.* We can also prove the third Weak Nullstellensatz using [[Hilbert's Nullstellensatz]]. Note that $I(\emptyset) = k[x\_1, \ldots , x\_n]$. Conversely, if $\mathfrak a$ is a proper ideal, then $\sqrt{\mathfrak a}$ is not the entire polynomial ring, thus $Z(\mathfrak a) = \emptyset$ if and only if $\mathfrak a$ equal the whole polynomial ring by [[Hilbert's Nullstellensatz]]. Thus we can conclude that $Z(\mathfrak a)$ is non-empty when $\mathfrak a$ is a proper ideal. 
 
