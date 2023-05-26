@@ -1,5 +1,5 @@
 ---
-title: "Eisenstein Criterion"
+title: "Eisenstein's Criterion"
 date: "2023-05-24"
 time: "17:23"
 tags:

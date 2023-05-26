@@ -6,7 +6,7 @@ tags:
 - algebraic-geometry
 - commutative-algebra
 ---
-The [[notes/Algebraic Geometry/Algebraic Sets|zero set]] of an ideal in a polynomial ring gives us a way to get geometric information from algebraic data. The vanishing ideal allows us to go the opposite direction. These two operations will turn out to be near inverses of each other as can be seen in [[notes/Algebraic Geometry/Hilbert Nullstellensatz]]. 
+The [[notes/Algebraic Geometry/Algebraic Sets|zero set]] of an ideal in a polynomial ring gives us a way to get geometric information from algebraic data. The vanishing ideal allows us to go the opposite direction. These two operations will turn out to be near inverses of each other as can be seen in [[notes/Algebraic Geometry/Hilbert's Nullstellensatz]]. 
 
 **Definition (Vanishing Ideal).** For a subset $X \subseteq \mathbb A^n$ we define the ideal $I(X)$ consisting of polynomials in $k[x\_1, \ldots, x\_n]$ that vanish along $X$; that is, 
 $$

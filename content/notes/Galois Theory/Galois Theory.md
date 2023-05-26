@@ -8,4 +8,4 @@ tags:
 Table of Contents
 - [[notes/Galois Theory/Rational Root Test]]  
 - [Gauss' Lemma](notes/Galois%20Theory/Gauss'%20Lemma.md)
-- [Eisenstein Criterion](notes/Galois%20Theory/Eisenstein%20Criterion.md) 
+- [Eisenstein's Criterion](notes/Galois%20Theory/Eisenstein's%20Criterion.md) 

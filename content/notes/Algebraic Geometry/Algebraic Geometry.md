@@ -10,5 +10,5 @@ Table of Contents
 - [The Zariski Topology](notes/Algebraic%20Geometry/The%20Zariski%20Topology.md)
 - [Vanishing Ideal](notes/Algebraic%20Geometry/Vanishing%20Ideal.md) 
 - [[notes/Algebraic Geometry/Weak Nullstellensatz|Weak Nullstellensatz]] 
-- [Hilbert Nullstellensatz](notes/Algebraic%20Geometry/Hilbert%20Nullstellensatz.md) 
+- [Hilbert's Nullstellensatz](notes/Algebraic%20Geometry/Hilbert's%20Nullstellensatz.md) 
 - [Irreducible Spaces](notes/Algebraic%20Geometry/Irreducible%20Spaces.md) 
