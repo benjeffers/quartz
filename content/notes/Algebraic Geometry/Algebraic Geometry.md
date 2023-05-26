@@ -12,5 +12,7 @@ Table of Contents
 - [[notes/Algebraic Geometry/Weak Nullstellensatz|Weak Nullstellensatz]] 
 - [Hilbert's Nullstellensatz](notes/Algebraic%20Geometry/Hilbert's%20Nullstellensatz.md) 
 - [Irreducible Spaces](notes/Algebraic%20Geometry/Irreducible%20Spaces.md) 
+- [Affine Variety](notes/Algebraic%20Geometry/Affine%20Variety.md)
 - [Radical Ideals and Algebraic Sets](notes/Algebraic%20Geometry/Radical%20Ideals%20and%20Algebraic%20Sets.md)
 - [Prime Ideals and Irreducible Sets](notes/Algebraic%20Geometry/Prime%20Ideals%20and%20Irreducible%20Sets.md) 
+- [Affine Coordinate Ring](notes/Algebraic%20Geometry/Affine%20Coordinate%20Ring.md) 
