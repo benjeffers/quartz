@@ -6,7 +6,7 @@ tags:
 - galois-theory
 ---
 Table of Contents
-- [[notes/Galois Theory/Rational Root Test]]  
+- [Rational Root Test](notes/Galois%20Theory/Rational%20Root%20Test.md)
 - [Gauss' Lemma](notes/Galois%20Theory/Gauss'%20Lemma.md)
 - [Eisenstein's Criterion](notes/Galois%20Theory/Eisenstein's%20Criterion.md) 
 - [Basic Definitions for Fields](notes/Galois%20Theory/Basic%20Definitions%20for%20Fields.md) 

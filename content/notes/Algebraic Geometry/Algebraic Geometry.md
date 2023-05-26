@@ -12,3 +12,5 @@ Table of Contents
 - [[notes/Algebraic Geometry/Weak Nullstellensatz|Weak Nullstellensatz]] 
 - [Hilbert's Nullstellensatz](notes/Algebraic%20Geometry/Hilbert's%20Nullstellensatz.md) 
 - [Irreducible Spaces](notes/Algebraic%20Geometry/Irreducible%20Spaces.md) 
+- [Radical Ideals and Algebraic Sets](notes/Algebraic%20Geometry/Radical%20Ideals%20and%20Algebraic%20Sets.md)
+- [Prime Ideals and Irreducible Sets](notes/Algebraic%20Geometry/Prime%20Ideals%20and%20Irreducible%20Sets.md) 
