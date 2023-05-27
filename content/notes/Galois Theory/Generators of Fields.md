@@ -15,7 +15,7 @@ $$If $X$ is finite, we call $F(X)$ a *finitely generated extension* of $F$.
 
 The following gives a more concrete description of the ring $F[X]$ and the field $F(X)$. 
 
-**Proposition.** Let $K$ be a [field extension](notes/Representation%20Theory/Basic%20Definitions.md) of $F$ and let $a \in K$. Then 
+**Proposition.** Let $K$ be a [field extension](notes/Galois%20Theory/Basic%20Definitions%20for%20Fields.md) of $F$ and let $a \in K$. Then 
 $$
 F[a] = \lbrace f(a) \mid f(x) \in F[x] \rbrace
 $$and 
