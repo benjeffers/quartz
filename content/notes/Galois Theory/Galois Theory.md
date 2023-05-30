@@ -14,4 +14,5 @@ Table of Contents
 - [Algebraic Field Extensions](notes/Galois%20Theory/Algebraic%20Field%20Extensions.md) 
 - [Minimal Polynomials](notes/Galois%20Theory/Minimal%20Polynomials.md) 
 - [Transitivity of Algebraic Field Extensions](notes/Galois%20Theory/Transitivity%20of%20Algebraic%20Field%20Extensions.md) 
-- 
+- [Criteria for Algebraic Extensions](notes/Galois%20Theory/Criteria%20for%20Algebraic%20Extensions.md) 
+- [Algebraic Closure](notes/Galois%20Theory/Algebraic%20Closure.md) 
